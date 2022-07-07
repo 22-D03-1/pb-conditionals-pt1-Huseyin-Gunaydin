@@ -112,6 +112,10 @@
 //   console.log(`${firstName}  ist ein Erwachsener`);
 // }
 
+// Bonus 12
+
+
+
 // marvin in yaptiklari
 
 // 1
